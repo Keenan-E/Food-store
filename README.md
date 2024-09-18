@@ -15,18 +15,17 @@ This web page serves as an online store for fresh fruit and vegetables, allowing
 8. Credits
 9. License
 
-#Installation
+*INSTALLATION*
 To install and run the Fruit and Veg Web Page locally, follow these steps:
 
-Prerequisites
+*PREREQUISITES*
 Make sure you have the following installed on your local machine:
-
 Git
 A code editor like VSCode or Sublime Text
 Python (if the project includes a backend using Python/Django)
 Node.js (if you're using any Node.js-based tools)
 
-##Step-by-Step Guide
+*STEP-BY-STEP GUIDE*
 Clone the Repository
 Open your terminal or command prompt.
 Navigate to the folder where you want to store the project.
@@ -39,25 +38,11 @@ For Python (Django Backend):
 Set up a virtual environment:
 python -m venv venv
 
-Activate the virtual environment:
-On Windows:
+# Activate the virtual environment:
+## On Windows:
 venv\Scripts\activate
 
-On macOS/Linux:
+## On macOS/Linux:
 source venv/bin/activate
 Install the required packages from requirements.txt:
 pip install -r requirements.txt
-For Node.js (Frontend tools like SASS or React):
-
-Install Node.js dependencies:
-npm install
-Run the Project
-
-For a static HTML/CSS project: Simply open the index.html file in your browser.
-For a Django/Flask project:
-python manage.py runserver
-
-For Node.js-based project:
-npm start
-View the Project Open your browser and go to http://localhost:8000 (or as per your project’s instructions).
-
