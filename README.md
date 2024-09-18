@@ -46,3 +46,20 @@ venv\Scripts\activate
 source venv/bin/activate
 Install the required packages from requirements.txt:
 pip install -r requirements.txt
+
+
+## Credits
+
+- **Keenan Eriss** - Developer of the Fruit and Veg Store project.
+- **Bootstrap** - Used for front-end styling and layout.
+- **Django** - Framework for building the web application.
+- **HyperionDev** - Provided tutorials and references for web development concepts.
+                  - Offered guidance on algorithms used in this project.
+
+## Highlights
+
+- **Interactive Product Display**: Users can view a variety of fruits and vegetables with descriptions and prices.
+- **Responsive Design**: Built with Bootstrap to ensure a smooth browsing experience on both desktop and mobile devices.
+- **Search and Sort Features**: Implemented to help users quickly find and sort items by price or availability.
+- **Efficient Code**: Python and Django were used to streamline back-end logic, ensuring efficient performance even with large datasets.
+- **GitHub Integration**: The project is open-source and hosted on GitHub for further development and collaboration.
